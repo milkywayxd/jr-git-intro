@@ -1,2 +1,2 @@
-**Bold text** or __Bold text__
+> This is a blockquote.
 *Italic text* or _Italic text_
