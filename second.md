@@ -1,2 +1,2 @@
-**Bold text** or __Bold text__
+[Link text](http://example.com)
 *Italic text* or _Italic text_
